@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @j-ordan
+- 👋 Hi, I’m Jordan
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning how to find jobs
 - 💞️ I’m looking to collaborate on something
