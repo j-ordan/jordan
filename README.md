@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning how to find jobs
 - 💞️ I’m looking to collaborate on something
-- 📫 How to reach me https://trees.chat
+- 📫 How to reach me https://ent.chat
 
 <!---
 j-ordan/j-ordan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
